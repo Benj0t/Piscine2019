@@ -1,0 +1,5 @@
+Credentials cache: API:6FA8B245-CD2A-46E6-9909-4D4F8255F5A6
+        Principal: bemoreau@42.FR
+
+  Issued                Expires               Principal
+Jul 29 12:31:34 2019  Aug  5 12:31:34 2019  krbtgt/42.FR@42.FR
